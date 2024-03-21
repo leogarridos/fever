@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala:wght@400;700&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap');
+
+@import url(header.css);
+@import url(about.css);
+@import url(plataforma.css);
+@import url(social.css);
+@import url(footer.css);
+
+:root {
+    --background-color: #121212;
+    --background-secundario: #202020;
+    --background-footer: #242424;
+    --cor-degrade: linear-gradient(97.54deg, #B41E8C 35.49%, #8D489C 165.37%);
+    --cor-degrade-inverso: linear-gradient(97.54deg, #8D489C 35.49%, #B41E8C 165.37%);
+
+    --font-principal: "Sofia Sans", sans-serif;
+    --font-color-primaria: #f3f2f2;
+    --font-color-secundaria: #dddddd;
+}
+
+body {
+    background-color: var(--background-color);
+    font-family: var(--font-principal);
+    color: var(--font-color-primaria);
+}
