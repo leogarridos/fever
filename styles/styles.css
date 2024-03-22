@@ -5,6 +5,7 @@
 @import url(plataforma.css);
 @import url(social.css);
 @import url(footer.css);
+@import url(ferramentas.css);
 
 :root {
     --background-color: #121212;

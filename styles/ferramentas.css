@@ -1,0 +1,24 @@
+.ferramentas {
+    padding: 3em;
+}
+
+.ferramentas__lista {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Duas colunas */
+    grid-template-rows: repeat(2, auto); /* Duas linhas */
+    gap: 20px; /* Espaçamento entre os itens */
+    text-align: center;
+}
+
+.ferramentas__lista__item {
+    padding: 3em;
+}
+
+.ferramentas__lista__item h2 {
+    font-size: 2vw;
+}
+
+.ferramentas__lista__item p {
+    font-size: 1vw;
+    padding: 0 4em;
+}
