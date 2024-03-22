@@ -13,6 +13,8 @@
     --background-footer: #242424;
     --cor-degrade: linear-gradient(97.54deg, #B41E8C 35.49%, #8D489C 165.37%);
     --cor-degrade-inverso: linear-gradient(97.54deg, #8D489C 35.49%, #B41E8C 165.37%);
+    --cor-degrade-verde: linear-gradient(97.54deg, #1e41b4 35.49%, #485e9c 165.37%);
+    --cor-degrade-verde-inverso: linear-gradient(97.54deg, #485e9c 35.49%, #1e41b4 165.37%);
 
     --font-principal: "Sofia Sans", sans-serif;
     --font-color-primaria: #f3f2f2;
